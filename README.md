@@ -36,6 +36,7 @@ This repository is designed as a quick reference for:
 ---
 
 ## Competitive Programming Template
+##This makes cin and cout much faster. Place these at the top of main().
 
 ```cpp
 #include <bits/stdc++.h>
@@ -49,3 +50,4 @@ int main() {
 
     return 0;
 }
+
